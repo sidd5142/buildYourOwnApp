@@ -52,7 +52,7 @@ Follow these steps to set up the project:
 ---
 
 ## 🎥 **Demo Video**  
-Watch the demo video: **[Click Here]([https://shorturl.at/GBVj4](https://drive.google.com/file/d/1rAsQ7JkaGqmKwLNNfN7FdOYMvJgWRICR/view?usp=sharing))**  
+Watch the demo video: **[Click Here](https://drive.google.com/file/d/1rAsQ7JkaGqmKwLNNfN7FdOYMvJgWRICR/view?usp=sharing)**  
 
 ---
 
