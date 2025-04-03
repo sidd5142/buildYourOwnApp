@@ -13,12 +13,16 @@ This app allows users to browse and discover **Agents** and **Weapons** with an 
 - **Retrofit** – Fetches real-time data from an API.  
 - **Kotlin Flows & LiveData** – Handles UI state efficiently.
 - **Room Database** – Enables offline data storage and caching. 
-- **Navigation Component** – Enables smooth screen transitions.  
+- **Navigation Component** – Enables smooth screen transitions.
+- **Animations** – Adds interactive and engaging animations.
+- **Text-to-Speech (TTS)** – Provides voice narration for accessibility.
 
 ### 🌟 **Features Implemented:**  
 ✅ **Lazy Grid Display** – Efficiently showcases Agents and Weapons.  
 ✅ **Error Handling** – Displays meaningful messages when data fails to load.  
 ✅ **Clickable Posters** – Users can interact with items for more details.  
+✅ Smooth Animations – UI elements have eye-catching transition effects.
+✅ Voice Assistance (TTS) – Reads out Agent/Weapon details aloud.
 
 ---
 
