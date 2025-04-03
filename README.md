@@ -11,7 +11,8 @@ This app allows users to browse and discover **Agents** and **Weapons** with an 
 - **Jetpack Compose** – Modern UI toolkit for a seamless experience.  
 - **MVVM Architecture** – Clean and maintainable code structure.  
 - **Retrofit** – Fetches real-time data from an API.  
-- **Kotlin Flows & LiveData** – Handles UI state efficiently.  
+- **Kotlin Flows & LiveData** – Handles UI state efficiently.
+- **Room Database** – Enables offline data storage and caching. 
 - **Navigation Component** – Enables smooth screen transitions.  
 
 ### 🌟 **Features Implemented:**  
